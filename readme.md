@@ -6,7 +6,7 @@ Made with class components.
 
 It consists of displaying a set of movies extracted from the [OMDB API](https://www.omdbapi.com/) based on a search.
 
-![Alt Text](https://media.giphy.com/media/mLdxgm7swIP6Q6ZQBt/giphy.gif)
+![Alt Text](https://media.giphy.com/media/mLdxgm7swIP6Q6ZQBt/giphy-downsized.gif)
 
 This project was bootstrapped with [webpack](https://webpack.js.org/) and [babel](https://babeljs.io/) to interpret code. Also use [eslint](https://eslint.org/) to prevent errors.
 
