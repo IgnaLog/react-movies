@@ -1,4 +1,4 @@
-# OMDB Movie React App
+# OMDB Movies React App
 
 This application belongs to the set of tutorials made with React.
 
